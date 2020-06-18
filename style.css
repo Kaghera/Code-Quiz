@@ -1,0 +1,19 @@
+.container {
+	/* background-color: #f7c61d; */
+	box-shadow: 0px 2px 10px rgba(255, 255, 255, 0.2);
+	padding: 30px;
+  width: 500px;
+  box-sizing: border-box;
+	max-width: 100%;
+}
+
+body {
+	background-color: lightseagreen;
+	color: #fff;
+
+}
+
+.score-btn {
+  display: flex;
+  align-items: flex-start;
+} 
